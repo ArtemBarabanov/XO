@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\MVP_XO\MVP_XO\bin\Debug\MVP_XO.exe.config
+C:\Users\User\source\repos\MVP_XO\MVP_XO\bin\Debug\MVP_XO.exe
+C:\Users\User\source\repos\MVP_XO\MVP_XO\bin\Debug\MVP_XO.pdb
+C:\Users\User\source\repos\MVP_XO\MVP_XO\obj\Debug\MVP_XO.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MVP_XO\MVP_XO\obj\Debug\MVP_XO.Form1.resources
+C:\Users\User\source\repos\MVP_XO\MVP_XO\obj\Debug\MVP_XO.Properties.Resources.resources
+C:\Users\User\source\repos\MVP_XO\MVP_XO\obj\Debug\MVP_XO.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MVP_XO\MVP_XO\obj\Debug\MVP_XO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MVP_XO\MVP_XO\obj\Debug\MVP_XO.exe
+C:\Users\User\source\repos\MVP_XO\MVP_XO\obj\Debug\MVP_XO.pdb
+C:\Users\User\source\repos\MVP_XO\MVP_XO\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\MVP_XO\MVP_XO\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\MVP_XO\MVP_XO\obj\Debug\MVP_XO.csproj.CopyComplete
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\bin\Debug\MVP_XO.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\bin\Debug\MVP_XO.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\bin\Debug\MVP_XO.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\bin\Debug\System.ValueTuple.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\bin\Debug\System.ValueTuple.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\obj\Debug\MVP_XO.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\obj\Debug\MVP_XO.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\obj\Debug\MVP_XO.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\obj\Debug\MVP_XO.csproj.GenerateResource.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\obj\Debug\MVP_XO.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\obj\Debug\MVP_XO.csproj.CopyComplete
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\obj\Debug\MVP_XO.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\MVP_XO\MVP_XO\obj\Debug\MVP_XO.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\bin\Debug\MVP_XO.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\bin\Debug\MVP_XO.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\bin\Debug\MVP_XO.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\bin\Debug\System.ValueTuple.dll
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\bin\Debug\System.ValueTuple.xml
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Debug\MVP_XO.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Debug\MVP_XO.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Debug\MVP_XO.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Debug\MVP_XO.csproj.GenerateResource.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Debug\MVP_XO.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Debug\MVP_XO.csproj.CopyComplete
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Debug\MVP_XO.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Debug\MVP_XO.pdb
