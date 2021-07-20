@@ -24,3 +24,16 @@ C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Release\MVP_XO.csproj.CopyComplete
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Release\MVP_XO.exe
 C:\Users\Администратор\Documents\Visual Studio 2017\Projects\XO\MVP_XO\obj\Release\MVP_XO.pdb
+D:\PetProjects\XO\MVP_XO\bin\Release\MVP_XO.exe.config
+D:\PetProjects\XO\MVP_XO\bin\Release\MVP_XO.exe
+D:\PetProjects\XO\MVP_XO\bin\Release\MVP_XO.pdb
+D:\PetProjects\XO\MVP_XO\bin\Release\System.ValueTuple.dll
+D:\PetProjects\XO\MVP_XO\bin\Release\System.ValueTuple.xml
+D:\PetProjects\XO\MVP_XO\obj\Release\MVP_XO.csproj.AssemblyReference.cache
+D:\PetProjects\XO\MVP_XO\obj\Release\MVP_XO.Form1.resources
+D:\PetProjects\XO\MVP_XO\obj\Release\MVP_XO.Properties.Resources.resources
+D:\PetProjects\XO\MVP_XO\obj\Release\MVP_XO.csproj.GenerateResource.cache
+D:\PetProjects\XO\MVP_XO\obj\Release\MVP_XO.csproj.CoreCompileInputs.cache
+D:\PetProjects\XO\MVP_XO\obj\Release\MVP_XO.csproj.CopyComplete
+D:\PetProjects\XO\MVP_XO\obj\Release\MVP_XO.exe
+D:\PetProjects\XO\MVP_XO\obj\Release\MVP_XO.pdb

@@ -16,7 +16,7 @@ namespace MVP_XO
             Application.SetCompatibleTextRenderingDefault(false);
 
             Form1 form = new Form1();
-            GamePresenter presenter = new GamePresenter(form);
+            new GamePresenter(form);
             Application.Run(form);
         }
     }
